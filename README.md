@@ -2,7 +2,7 @@
 
 Autores: Michael Kölling and David J. Barnes
 
-- Traduzido por: Julio César Alves
+- Traduzido do original `house` por: Julio César Alves
 
 Este projeto é parte do material do livro
 
